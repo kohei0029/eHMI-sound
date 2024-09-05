@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kohei/khi_amr_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kohei/khi_amr_ws/src/localization/als_ros/src/als_ros/include/**",
+        "/home/kohei/khi_amr_ws/src/autoware_ai/autoware_health_checker/include/**",
+        "/home/kohei/khi_amr_ws/src/autoware_ai/detected_objects_visualizer/include/**",
+        "/home/kohei/khi_amr_ws/src/eHMI/display/include/**",
+        "/home/kohei/khi_amr_ws/src/gesture/gesture_manager/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/hungarian_algorithm_lib/include/**",
+        "/home/kohei/khi_amr_ws/src/eHMI/judgment/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/kalman_filter_lib/include/**",
+        "/home/kohei/khi_amr_ws/src/tracking/lidar_camera_fuser/include/**",
+        "/home/kohei/khi_amr_ws/src/autoware_ai/lidar_euclidean_cluster_detect/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/mpc_visualizer/include/**",
+        "/home/kohei/khi_amr_ws/src/tracking/object_area_filter/include/**",
+        "/home/kohei/khi_amr_ws/src/tracking/object_tracker/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/path_manager/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/point_in_polygon_lib/include/**",
+        "/home/kohei/khi_amr_ws/src/autoware_ai/points_preprocessor/include/**",
+        "/home/kohei/khi_amr_ws/src/control/pure_pursuit/include/**",
+        "/home/kohei/khi_amr_ws/src/control/rmpc_pathtracking/include/**",
+        "/home/kohei/khi_amr_ws/src/autoware_ai/ros_observer/include/**",
+        "/home/kohei/khi_amr_ws/src/eHMI/sound/include/**",
+        "/home/kohei/khi_amr_ws/src/tools/trajectory_visualizer/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
