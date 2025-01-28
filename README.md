@@ -43,6 +43,6 @@
 
 ## 映像
 以下は実際の映像です。参考までにご覧ください。
-[動画はこちらから視聴できます]([https://example.com/your-video-link](https://youtube.com/shorts/LdvUZUPPug0))
+[動画はこちらから視聴できます](https://youtube.com/shorts/LdvUZUPPug0)
 <video src="./eHMI_sound_ver1-2024-07-22.mp4" controls width="640"></video>
 
